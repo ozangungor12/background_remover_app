@@ -1,0 +1,4 @@
+opencv-python==4.10.0.82
+rembg==2.0.57
+streamlit==1.35.0
+loguru==0.7.2
