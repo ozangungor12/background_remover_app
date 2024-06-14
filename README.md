@@ -8,5 +8,5 @@ Below are the images demonstrating the before and after effects of the app:
 <p align="center">
   <img src="assets/ship.jpg" alt="Original Image" width="45%" />
   <img src="assets/ship_result.jpg" alt="Processed Image" width="45%" />
-  <img src="assets/streamlit_app.jpg" alt="Streamlit App" width="45%" />
+  <img src="assets/streamlit_app.png" alt="Streamlit App" width="45%" />
 </p>
